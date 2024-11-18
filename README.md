@@ -15,9 +15,11 @@ Expo: Plataforma para facilitar o desenvolvimento e execução do app.
 Styled-Components: Para estilização dos componentes.
 React Navigation: Para navegação entre telas (se aplicável).
 ## 📸 Comparação das Telas
-Tela Original:
+Tela Original: (https://github.com/user-attachments/assets/af439c82-7d51-4ed7-8cd4-4ce60ee958fe)
 
-Minha Implementação:
+
+Minha Implementação: (https://github.com/user-attachments/assets/a6f666d1-3c88-4289-ad39-b0f71af6f600)
+
 
 ## 🚀 Como Executar o Projeto
 Pré-requisitos
