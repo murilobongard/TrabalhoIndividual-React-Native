@@ -24,4 +24,4 @@ Minha Implementação: (https://github.com/user-attachments/assets/a6f666d1-3c88
 Pré-requisitos
 Node.js instalado
 Expo CLI instalado (npm install -g expo-cli)
-![WhatsApp Image 2024-11-18 at 08 43 35](https://github.com/user-attachments/assets/b412d7dc-d3e4-4341-abd9-6ddbb1d64aaf)
+
